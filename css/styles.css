@@ -4123,6 +4123,7 @@ td:last-child {
   padding-bottom: var(--vspace-4);
   background-color: var(--color-gray-10);
   color: var(--color-text-light);
+  margin-top: 200px;
 }
 
 .s-numbers h5 {
